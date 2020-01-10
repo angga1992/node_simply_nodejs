@@ -1,4 +1,4 @@
-# node_simply_nodejs
+# api_simply_nodejs
 restFull use Node js (express, mongoose, bodyparser)
 
 Membuat API sederhana menggunakan Node.js serta menggunakan Mongodb sebagai database
